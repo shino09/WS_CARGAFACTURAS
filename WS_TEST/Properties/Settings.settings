@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WS_TEST.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Archivos" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">\\172.27.4.25\archivos</Value>
+    </Setting>
+    <Setting Name="ArchivosLocal" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\WEB_CLIENTE_OCTUBRE\BRANCHENOVIEMBRE25\SVN33\WEB_CLIENTE\ArchivosXls</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
