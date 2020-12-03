@@ -5,6 +5,6 @@ Valida  datos factuas xlsx con procedimientos almacenados, (nulos,tipo datos, la
 Elimina tabla temporales.
 
 
-Autoria: Ivan Sobarzo
+Autoria: Ivan Sobarzo.
 
 PD: se elimino webconfig porque tenia informacion sensibles de acceso a base de datos.
